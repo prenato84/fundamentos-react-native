@@ -113,7 +113,7 @@ Para isso, está instalado no package.json uma dependência chamada `json-server
 ```
 
 <p align="center">
-  <img src="./assets/json-server.png" width="350px">
+  <img src="./assets/json-server.png" width="360px">
 </p>
 
 ### Layout da aplicação (Instruções)
