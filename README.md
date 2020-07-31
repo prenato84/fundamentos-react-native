@@ -39,6 +39,11 @@ Desafio 08 Fundamentos React Native - GoMarketplace do Bootcamp GoStack 11
 
 Nesse desafio foi desenvolvido uma nova aplicação, a GoMarketplace. Dessa vez pratiquei o que aprendi até agora no React Native junto com o TypeScript, utilizando rotas, Async Storage e a Context API.
 
+<h1 align="center">
+    <img alt="App Dashboard" src="./assets/dashboard.png" width="220px">
+    <img alt="App Cart" src="./assets/cart.png" width="220px">
+</h1>
+
 ### :keyboard: Instalação e Execução do Projeto
 
 - Clone este repositório
@@ -84,7 +89,7 @@ yarn ios
 ```
 
 <p align="center">
-  <img src="./assets/tests.png">
+  <img src="./assets/tests.png" width="350px">
 </p>
 
 ### Template da aplicação
@@ -107,6 +112,10 @@ Para isso, está instalado no package.json uma dependência chamada `json-server
   yarn json-server server.json -p 3333
 ```
 
+<p align="center">
+  <img src="./assets/json-server.png" width="350px">
+</p>
+
 ### Layout da aplicação (Instruções)
 
 Essa aplicação possui um layout que você pode seguir para conseguir visualizar o seu funcionamento.
@@ -114,6 +123,10 @@ Essa aplicação possui um layout que você pode seguir para conseguir visualiza
 O layout pode ser acessado através da página do Figma, no [seguinte link](https://www.figma.com/file/VgK3hsmyGbqiGu9FdqfUzF/GoMarketplace?node-id=0%3A1).
 
 Você precisará de uma conta (gratuita) no Figma pra inspecionar o layout e obter detalhes de cores, tamanhos, etc.
+
+<p align="center">
+  <img src="./assets/figma.png" width="400px">
+</p>
 
 ### Funcionalidades da aplicação (Instruções)
 
